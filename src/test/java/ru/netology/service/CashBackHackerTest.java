@@ -2,7 +2,7 @@ package ru.netology.service;
 
 import org.junit.Test;
 
-import static org.junit.Assert. assertEquals;
+import static org.junit.Assert.assertEquals;
 
 public class CashBackHackerTest {
     CashBackHacker service = new CashBackHacker();
